@@ -7,14 +7,20 @@ Gemini and Google's AI answer your buyers' prompts, refreshes
 underperformers, and proves results with Search Console data.
 
 With this skill installed, your agent (Claude Code, Claude Desktop, ChatGPT,
-Cursor, Hermes, OpenClaw) can:
+Cursor) can:
 
-- read your real Search Console + AI-visibility data and explain it
+- read your real Search Console + AI-visibility data and explain it —
+  including the pages AI answers cite and the prompts you're losing
 - write articles itself on your subscription — and grade them against
   Omnirank's five-pillar scorer until they're worth publishing
-- trigger Omnirank's own generation pipeline, steer the calendar, publish
-- do it all attributably: every agent action shows up in your workspace's
-  activity feed
+- work the Actions board: accept coverage cards (pages AI cites where your
+  competitors are listed and you're not) and draft the pitches for you
+- order work from the pipeline, steer the calendar and the writing dial,
+  start tracking new prompts, publish (confirm-gated)
+- run four named plays on request: **weekly pulse · gap fixer · coverage
+  pitch · proof report**
+- do it all attributably: every agent action shows up on your Actions board
+  and activity feed as "Your agent"
 
 ## Install
 
